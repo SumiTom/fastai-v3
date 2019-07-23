@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1o7Pkubpv__Bvg2g6gFS8-FACvKpFbkA3'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1_vIUxGLrSMoxJWDgKAr63Cb71jmWp324'
 export_file_name = 'export.pkl'
 
 classes = ['tokyo','eiffel']
